@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 1200 px;
+}
+
+.container
+	{
+	width: 1170px;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin: auto;
+   overflow: hidden;
+   margin-bottom: 5%;
+	}
+
+h1.heading{font-size: 50px;}
+h1{font-size: 40px;}
+
+.nameHeilight{
+    color: orange;
+}
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 70%;
+    border-radius: 60%;
+    margin-top: 5%;
+    
+}
+
+.contactButton{
+    float: left;
+    margin-left:5%;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    background: #388472;
+    border: none;
+    font-size: 16px;
+    border-radius: 5.5px;
+    color: white;
+    
+}
+
+.sectionTwo-half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    border: 5px solid white;
+    box-shadow: 5px 10px 18px 10px #888888;
+    bottom: 40px;
+    
+
+}
+
+
+.exper-Wrpper h1{
+    margin-left: 0%;
+}
+
+.sectionTwo-half-width h1{
+    text-align: left;
+    font-size: 35px;
+    margin-left: 15px;
+}
+
+.sectionTwo-half-width  h3{
+    text-align: left;
+    margin-left: 15px;
+   
+}
+
+.sectionTwo-half-width  p{
+    margin-left: 15px;
+   
+}
+
+
+footer p {
+    text-align: center;
+    font-size: 18px;
+}
